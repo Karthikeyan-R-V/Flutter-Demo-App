@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834830571092",
+    "project_id": "rvk-firstapp-zeus",
+    "storage_bucket": "rvk-firstapp-zeus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834830571092:android:5a43a1eeaae79fc570ffc1",
+        "android_client_info": {
+          "package_name": "com.ZeusNovaDev.myfirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdd5Hf4VBvsSFf-zBoTBJHl18QHP1PS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
